@@ -1,0 +1,47 @@
+body {
+    background-color:whitesmoke;
+}
+
+h1 {
+    color:black;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 100px;
+}
+
+h2 {
+    background-color: salmon;
+    color:black;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+h3 {
+    color:black;
+    text-align: left;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+a {
+    color:black;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+#p1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
